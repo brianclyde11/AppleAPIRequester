@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sIghD5X3d7Omb/8g/6SVqq1DbgaWPBEOAgvHlV+8g5pJgS1ZmUjcpul/HxdvpDsWEcVVm+rm0IykbG66Zvpr9A==",
+  "success": true,
+  "projectFilePath": "/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/AppleAPIConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/brianmaguslog/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

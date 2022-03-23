@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C5AFCC47-CB01-4330-B8BF-72C6EF0C2A07}|Default">
+  <MonoDevelop.Ide.ItemProperties.AppleAPIConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppleAPIConsoleApp/Program.cs">
+    <Files>
+      <File FileName="AppleAPIConsoleApp/Program.cs" Line="12" Column="16" />
+      <File FileName="AppleAPIConsoleApp/APIRequester.cs" />
+      <File FileName="AppleAPIConsoleApp/APINoResultException.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppleAPIConsoleApp" expanded="True" selected="True">
+            <Node name="AppleAPIConsoleApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

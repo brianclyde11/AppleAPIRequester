@@ -1,0 +1,17 @@
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/bin/Debug/net5.0/AppleAPIConsoleApp.deps.json
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/bin/Debug/net5.0/AppleAPIConsoleApp.runtimeconfig.json
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/bin/Debug/net5.0/AppleAPIConsoleApp.runtimeconfig.dev.json
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/bin/Debug/net5.0/AppleAPIConsoleApp.dll
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/bin/Debug/net5.0/ref/AppleAPIConsoleApp.dll
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/bin/Debug/net5.0/AppleAPIConsoleApp.pdb
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/obj/Debug/net5.0/AppleAPIConsoleApp.csproj.AssemblyReference.cache
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/obj/Debug/net5.0/AppleAPIConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/obj/Debug/net5.0/AppleAPIConsoleApp.AssemblyInfoInputs.cache
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/obj/Debug/net5.0/AppleAPIConsoleApp.AssemblyInfo.cs
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/obj/Debug/net5.0/AppleAPIConsoleApp.csproj.CoreCompileInputs.cache
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/obj/Debug/net5.0/AppleAPIConsoleApp.csproj.CopyComplete
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/obj/Debug/net5.0/AppleAPIConsoleApp.dll
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/obj/Debug/net5.0/ref/AppleAPIConsoleApp.dll
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/obj/Debug/net5.0/AppleAPIConsoleApp.pdb
+/Users/brianmaguslog/Projects/AppleAPIConsoleApp/AppleAPIConsoleApp/obj/Debug/net5.0/AppleAPIConsoleApp.genruntimeconfig.cache
